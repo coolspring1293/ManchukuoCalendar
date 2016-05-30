@@ -1,0 +1,2 @@
+# ManchukuoCalendar
+Calendar of Manchukuo
